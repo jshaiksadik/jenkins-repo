@@ -1,0 +1,2 @@
+This is sample file 1 for Git testing.
+Line 2 of file 1.
