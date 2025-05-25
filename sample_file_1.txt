@@ -1,8 +1,5 @@
 This is sample file 1 for Git testing.
 Line 2 of file 1.
 adding dummy line
-
-
-
-testiing web hook concept
+testing web hook concept
 wll check report in the jenkins
